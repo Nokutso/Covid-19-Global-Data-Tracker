@@ -1,8 +1,30 @@
 # 🦠 COVID-19 Global Data Tracker
 
-## 🎯 Objective
+## 🎯 Project Objectives
 
-The goal of this analysis is to explore COVID-19 trends in selected countries, focusing on **total cases**, **deaths**, and **vaccination progress**.
+- Explore global COVID-19 trends using data analysis and visualization.
+- Track total cases, deaths, and vaccination rates over time.
+- Compare daily new cases and death rates across selected countries.
+- Visualize key insights through charts and graphs.
+- Generate a well-documented, readable notebook for data storytelling.
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- **Python**
+- **Pandas** – data manipulation and cleaning
+- **Matplotlib** – data visualization
+- **Jupyter Notebook** – interactive development and presentation
+
+---
+
+## 🚀 How to Run / View the Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/covid19-data-tracker.git
+   cd covid19-data-tracker
 
 ---
 
