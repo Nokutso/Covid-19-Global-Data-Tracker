@@ -72,6 +72,7 @@ This chart shows daily new reported cases:
 ## ❗ Anomalies or Interesting Patterns
 
 - Some countries have gaps in **vaccination data reporting**, affecting consistency in comparisons.
+- Countries like **Japan** and **Australia** saw rapid vaccination once the rollout began.
 
 ---
 
