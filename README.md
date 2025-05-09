@@ -1,65 +1,67 @@
-# Covid-19 Global Data Tracker
-## Objective
-The goal of this analysis is to explore COVID-19 trends in selected countries, focusing on total cases, deaths, and vaccination progress.
+# 🦠 COVID-19 Global Data Tracker
 
---- 
-## 📊Exploratory Data Analysis 
-Below, we examine total cases and deaths over time to observe major trends and spikes.
+## 🎯 Objective
 
-### Total Cases Over Time
-
-The line chart above illustrates how COVID-19 cases increased over time in the selected countries.
-
-- **India** experienced a sharp rise during the mid-2021 period, likely due to the Delta variant surge.
-- **The United States** had multiple waves, with the highest spike occurring in early 2022.
-- **Kenya** showed a more gradual increase, with smaller peaks, possibly due to lower testing/reporting or population size.
-
-This visualization helps us see the general spread trend and magnitude of the outbreak in each country.
-
-__### Total Deaths Over Time__
-
-This chart shows the total number of reported COVID-19 deaths.
-
-- **The USA** has the highest death count, reflecting both high case numbers and population size.
-- **India** shows a steep incline in deaths during the same period as its case surge.
-- **Kenya** maintains a significantly lower death count, though this might reflect underreporting or limited testing.
-
-
-### Daily New COVID-19 Cases
-
-This line chart displays the number of new COVID-19 cases reported daily in each country.
-
-- **India** had significant daily spikes, especially during its second wave, showing how rapidly the virus spread.
-- **The USA** shows frequent surges, reflecting multiple pandemic waves.
-- **Kenya** experienced lower and more stable daily cases, but this may reflect testing capacity rather than actual case numbers.
-
-These spikes are crucial for understanding pandemic pressure on health systems and for tracking how effective interventions like lockdowns and vaccinations were.
+The goal of this analysis is to explore COVID-19 trends in selected countries, focusing on **total cases**, **deaths**, and **vaccination progress**.
 
 ---
-## Key Insights
-1. India has the highest total number of COVID-19 cases among the selected countries.
-2. The United States showed a sharp increase in new daily cases in late 2021.
-3. Congo had one of the slowest vaccine rollouts, with less than 20% of its population vaccinated as of the latest data.
-4. There is a strong correlation between population size and total cases.
-5. Despite having a lower case count, Congo had a relatively high death rate early in the pandemic.
+
+## 📊 Exploratory Data Analysis
+
+We examine **total cases**, **total deaths**, and **daily new cases** over time to observe major trends and spikes.
+
+### 📈 Total Cases Over Time
+
+The line chart shows the increase in COVID-19 cases over time:
+
+- **India** experienced a sharp rise during mid-2021, likely due to the Delta variant.
+- **USA** had multiple waves, with the highest spike in early 2022.
+- **Japan** saw a sharp rise in early 2023.
+- **Congo**, **Kenya**, and **Nigeria** showed a gradual increase with smaller peaks.
+
+### 💀 Total Deaths Over Time
+
+This chart shows total reported COVID-19 deaths:
+
+- **USA** has the highest death count, reflecting both high case numbers and population size.
+- **India** saw a steep incline in deaths during its case surge.
+- **Congo** maintains a significantly lower death count.
+
+### 📉 Daily New COVID-19 Cases
+
+This chart shows daily new reported cases:
+
+- **India** had major spikes during its second wave.
+- **USA** shows frequent surges, reflecting pandemic waves.
+- **Congo**, **Kenya**, and **Nigeria** experienced more stable daily cases.
 
 ---
-## Anomalies or Interesting Patterns
-- Some countries show reporting gaps in vaccination data, making it hard to compare consistently.
+
+## 🔍 Key Insights
+
+1. 🇮🇳 India has the highest total number of COVID-19 cases among the selected countries.  
+2. 🇺🇸 The United States showed a sharp increase in new daily cases in late 2021.  
+3. 🇨🇩 Congo had one of the slowest vaccine rollouts, with less than 20% vaccinated.  
+4. There is a strong correlation between **population size** and **total cases**.  
+5. Despite fewer cases, **Congo** had a relatively high **death rate** early in the pandemic.
 
 ---
-## Analysis: Vaccination Progress
 
-Below is a bar chart **Comparing % of the Population Vaccinated**.
+## ❗ Anomalies or Interesting Patterns
 
-- We see that the Australia and Japan closely lead, followed by India.
-- Congo lags significantly, which may be due to their lowest total cases and/or daily total cases.
+- Some countries have gaps in **vaccination data reporting**, affecting consistency in comparisons.
 
-### Vaccination Progress
-We calculate and compare the percentage of the population vaccinated in each country.
+---
 
+## 💉 Vaccination Progress
 
-### Conclusion
-The data highlights the importance of vaccination in reducing fatalities. Different countries followed different trajectories depending on healthcare infrastructure and policy responses.
+A bar chart compares % of the population vaccinated:
 
---- 
+- **Australia** and **Japan** lead, followed by **India**.
+- **Congo** lags significantly, possibly due to lower case totals or limited reporting.
+
+---
+
+## 🧾 Conclusion
+
+This analysis highlights the **importance of vaccination** in reducing fatalities. Each country’s trajectory was shaped by its **healthcare infrastructure**, **data availability**, and **policy responses**.
