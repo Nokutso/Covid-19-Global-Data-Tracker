@@ -3,7 +3,7 @@
 The goal of this analysis is to explore COVID-19 trends in selected countries, focusing on total cases, deaths, and vaccination progress.
 
 --- 
-## Exploratory Data Analysis
+## 📊Exploratory Data Analysis 
 Below, we examine total cases and deaths over time to observe major trends and spikes.
 
 ### Total Cases Over Time
@@ -16,7 +16,7 @@ The line chart above illustrates how COVID-19 cases increased over time in the s
 
 This visualization helps us see the general spread trend and magnitude of the outbreak in each country.
 
-### Total Deaths Over Time
+__### Total Deaths Over Time__
 
 This chart shows the total number of reported COVID-19 deaths.
 
@@ -24,7 +24,6 @@ This chart shows the total number of reported COVID-19 deaths.
 - **India** shows a steep incline in deaths during the same period as its case surge.
 - **Kenya** maintains a significantly lower death count, though this might reflect underreporting or limited testing.
 
-Analyzing deaths alongside cases provides context for how severely the pandemic affected each country.
 
 ### Daily New COVID-19 Cases
 
@@ -55,8 +54,6 @@ Below is a bar chart **Comparing % of the Population Vaccinated**.
 
 - We see that the Australia and Japan closely lead, followed by India.
 - Congo lags significantly, which may be due to their lowest total cases and/or daily total cases.
-
-  ![The Bar Chart of Comparing % of the Population Vaccinated](./)
 
 ### Vaccination Progress
 We calculate and compare the percentage of the population vaccinated in each country.
